@@ -1,0 +1,14 @@
+# .env file content
+API_ID=34280578
+API_HASH=b77ac49b31b12365b98f2333bd4c3eb0
+BOT_TOKEN=8001528284:AAH-ZWKG2OJegS5r1P_PxUM5cXc5AXR9_Uk
+BASE_URL=https://file.streamgramm.workers.dev
+PORT=8080
+LOG_CHANNEL_ID=-1003213143951
+HASH_LENGTH=12
+MAX_CACHE_SIZE=10737418240 # 10 GB in bytes
+CACHE_DIRECTORY=.cache
+#GITHUB_TOKEN=      # Personal Access Token con scope `repo` (no publiques esto)
+GITHUB_OWNER=Streamtg          # owner del repositorio (usuario u org)
+GITHUB_REPO=curly-waffle             # nombre del repo donde se guardará el .db
+GITHUB_DB_PATH=storage/database.json
